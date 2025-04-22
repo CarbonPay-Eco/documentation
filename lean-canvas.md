@@ -4,65 +4,70 @@
 
 <table>
   <tr>
-    <td rowspan="2">
+    <td rowspan="2" style="vertical-align: top; text-align: left;">
       <b>Problem</b>
-      <p>- Carbon credit producers (all sizes) struggle to access global buyers<br>
-         - Difficulty transacting credits across countries<br>
-         - Many distinct credit standards hinder traceability and adoption</p>
+      <p>- Carbon credit producers (all sizes) face limited access to international buyers<br>
+         - Cross-border carbon transactions are complex and fragmented<br>
+         - Lack of standardization across credit types complicates transparency</p>
     </td>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <b>Solution</b>
-      <p>- Tokenization via SPL Tokens and NFT certificates<br>
-         - Token burn after offset<br>
-         - Visual interface with easy credit management and traceability</p>
+      <p>- End-to-end marketplace for traceable carbon credit sales and retirement<br>
+         - Unified platform to manage, sell, and verify credits<br>
+         - Certification and proof of retirement made simple and shareable</p>
     </td>
-    <td rowspan="2" colspan="2">
+    <td rowspan="2" colspan="2" style="vertical-align: top; text-align: left;">
       <b>Unique Value Proposition</b>
-      <p>A global marketplace for tokenized and traceable carbon credits — enabling transparent, secure, and efficient connections between certified projects and companies worldwide. 🦾🌱</p>
+      <p>A marketplace for verified carbon credits — simplifying global trade and retirement of carbon assets through a unified, transparent, and branded experience for businesses and project developers.</p>
     </td>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <b>Unfair Advantage</b>
-      <p>- Web3 infrastructure on Solana: low cost, high performance<br>
-         - Multidisciplinary team with blockchain, ESG, and product expertise<br>
-         - Visual-first experience and premium B2B2C integrations</p>
+      <p>- Strategic positioning as a trusted B2B platform in a fragmented market<br>
+         - Strong branding and enterprise-grade user experience<br>
+         - Deep understanding of both environmental compliance and buyer expectations</p>
     </td>
-    <td rowspan="2">
+    <td rowspan="2" style="vertical-align: top; text-align: left;">
       <b>Customer Segments</b>
-      <p>- Companies looking to offset voluntary emissions (initial focus)<br>
-         - Certified carbon credit producers and project developers<br>
-         - Environmental brokers and ESG consultants<br>
-         - B2B companies offering offsetting to end-users (B2B2C)</p>
+      <p>- Mid to large companies offsetting voluntary emissions<br>
+         - Environmental project developers and carbon credit producers<br>
+         - ESG consultants and intermediaries<br>
+         - Brands seeking traceable and marketable sustainability actions</p>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <b>Key Metrics</b>
-      <p>- Revenue from transactions and fees<br>
-         - Total volume of credits traded and offset<br>
-         - Number of active organizations<br>
-         - Brand recognition in the carbon and Web3 space</p>
+      <p>- Revenue from credit sales and retirement fees<br>
+         - Number of organizations using the platform<br>
+         - Volume of credits transacted<br>
+         - Share of mind and reputation in the ESG space</p>
     </td>
-    <td>
+    <td style="vertical-align: top; text-align: left;">
       <b>Channels</b>
-      <p>- LinkedIn, Twitter, and YouTube for institutional content<br>
-         - Partnerships with ESG consultancies and project developers<br>
-         - Sustainability and Web3 events<br>
-         - NFTs as a shareable offset proof and branding asset</p>
+      <p>- Direct sales and partnerships with ESG consultants<br>
+         - B2B outreach through industry events and networks<br>
+         - Thought leadership and brand positioning on LinkedIn and webinars<br>
+         - Integration into corporate sustainability reports and platforms</p>
     </td>
   </tr>
   <tr>
-    <td colspan="3">
-      <b>Cost Structure</b>
-      <p>- Cloud infrastructure (RPCs, IPFS, storage, etc.)<br>
-         - Development and protocol maintenance<br>
-         - Technical and institutional team<br>
-         - Security, verification, and customer support</p>
-    </td>
-    <td colspan="3">
+<td colspan="3" style="vertical-align: top; text-align: left;">
+  <b>Cost Structure</b>
+  <p>
+  - <b>Cloud infrastructure and DevOps (30%)</b>: RPC providers, file storage (IPFS/Arweave), databases, compute services (e.g., serverless functions, nodes)<br>
+  - <b>Product development (20%)</b>: Frontend, backend, smart contracts, testing, and protocol maintenance<br>
+  - <b>Marketing & branding (15%)</b>: Content, design, media production, social campaigns, and brand visibility<br>
+  - <b>Business development & partnerships (15%)</b>: Travel, meetings, outreach tools, CRM, and relationship-building efforts<br>
+  - <b>Legal, compliance & certification (10%)</b>: Jurisdictional assessments, environmental credit validation, contracts, terms of service<br>
+  - <b>Customer support & onboarding (5%)</b>: Helpdesk, user education, materials, onboarding flows<br>
+  - <b>General admin & operations (5%)</b>: Tools (Notion, Slack, etc.), accounting, banking, and team operations
+  </p>
+</td>
+    <td colspan="3" style="vertical-align: top; text-align: left;">
       <b>Revenue Streams</b>
-      <p>- Fees on transactions (buying and offsetting)<br>
-         - Licensing platform for client-facing integrations (B2B2C)<br>
-         - Premium API integrations and services for enterprises</p>
+      <p>- Transaction-based commission on carbon credit sales<br>
+         - Licensing platform access to clients' own customers (B2B2C)<br>
+         - Customized solutions and sustainability integrations for enterprise accounts</p>
     </td>
   </tr>
 </table>
